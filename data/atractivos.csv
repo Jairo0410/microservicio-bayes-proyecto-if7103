@@ -1,0 +1,24 @@
+idAtractivo,nombre,descripcion,urlimg,urlvideo,longitud,latitud,duracion,cantidadPersonas,clima,agua,distancia,zona,ambiente,tipoPersona,removed
+1,Guayabo,"lugar indigena",img/guayabo.jpg,https://www.youtube.com/embed/uyrCRsgS67U,-83.6768,9.96594,3,2,1,1,2,1,1,aventurero,0
+2,"Cascada Aquiares","lugar de paseo",img/cascada1.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.7209,9.93338,2,4,1,1,3,2,1,aventurero,0
+3,"Cascada Juanito1","lugar de diversion",img/cascada2.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.7209,9.93338,1,3,1,1,1,3,2,aventurero,0
+4,"Cascada Juanito2","lugar de diversion",img/cascada3.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.7209,9.93338,1,3,1,1,1,3,2,aventurero,0
+5,"Iglesia Orosi",religioso,img/iglesia1.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.8444,9.78467,3,1,3,2,3,3,1,tranquilo,0
+6,"Iglesia del Carmen",religioso,img/iglesia2.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.8444,9.78467,3,1,3,2,3,3,1,tranquilo,0
+7,"Iglesia Patito",religioso,img/iglesia3.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.8444,9.78467,3,1,3,2,3,3,1,tranquilo,0
+8,"Iglesia Patito2",religioso,img/iglesia3.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.8444,9.78467,2,2,3,2,1,2,1,tranquilo,0
+9,"Iglesia Patito3",religioso,img/iglesia3.jpg,https://www.youtube.com/embed/97t2tjRqPFg,-83.8444,9.78467,2,2,3,1,1,2,1,tranquilo,0
+10,"Iglesia Patito4",religioso,img/iglesia1.jpg,https://www.youtube.com/watch?v=FP3FN1xDymI&ab_channel=TicoFAm,-83.8444,9.78467,2,1,3,1,2,1,1,tranquilo,0
+17,"Playa Carrillo","Las playas de Costa Rica son conocidas por su arena blanca, bosques de palmeras y aguas cristalinas.",img/playa1.jpg,https://www.youtube.com/embed/7HQuSoETVxA,-85.4932,9.87206,4,2,1,1,3,1,2,aventurero,0
+18,"Playa Manzanillo","lugar para pasarla bien",img/playa1.jpg,https://www.youtube.com/embed/7HQuSoETVxA,-85.6616,10.6374,4,2,1,1,3,1,2,aventurero,0
+29,"Playa Guiones","Es una playa fabulosa casi todo el tiempo",img/playa2.jpg,https://www.youtube.com/embed/7HQuSoETVxA,-85.6641,9.93472,3,2,1,2,3,1,1,aventurero,0
+75,"Bar Marally","Ricas Comidas y bebidas",https://lh3.googleusercontent.com/p/AF1QipOCObA7fyFa0vGw0kNHO-dW9rrabXQ5u7wj5kgQ=s1600-w400,https://www.youtube.com/embed/7HQuSoETVxA,-83.6781,9.91767,3,4,2,2,1,3,2,fiestero,0
+76,"Costa Rica Beer Factory","Excelente Atencion y las mejores bebidas",https://lh3.googleusercontent.com/p/AF1QipOCObA7fyFa0vGw0kNHO-dW9rrabXQ5u7wj5kgQ=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-84.0633,9.93519,3,4,2,2,1,3,2,fiestero,0
+78,"Chubbs Bar","Excelente atencion",https://lh3.googleusercontent.com/p/AF1QipOCObA7fyFa0vGw0kNHO-dW9rrabXQ5u7wj5kgQ=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-84.0746,9.93536,3,4,2,2,1,3,2,fiestero,0
+79,"Bar La Riviera","Excelente atencion y mejores chicharrones",https://lh3.googleusercontent.com/p/AF1QipOCObA7fyFa0vGw0kNHO-dW9rrabXQ5u7wj5kgQ=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-83.6116,9.84961,3,4,2,2,1,3,2,fiestero,0
+80,"Bar Boruca","Excelente atencion",https://lh3.googleusercontent.com/p/AF1QipOoS9hYXdeQrqD-du0hQ7ucNBjhIZvIcyBpQERb=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-83.7238,9.86155,3,4,2,2,1,3,2,fiestero,0
+81,"Bar Restaurante Mi Costa Rica","Excelente atencion",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEv0M9w65EmPBrDu83Lsf4mAggsu75XgQUqA&usqp=CAU,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-84.0521,9.93814,3,4,2,2,1,3,2,fiestero,0
+82,"Chiris Bar","Excelente atencion",https://lh3.googleusercontent.com/p/AF1QipOoS9hYXdeQrqD-du0hQ7ucNBjhIZvIcyBpQERb=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-83.8664,9.84973,3,4,2,2,1,3,2,fiestero,0
+83,"Bar Laroche","Excelente Lugar para divertirse",https://lh3.googleusercontent.com/p/AF1QipPYhy2SZ8YqTk5YVosIE6w6KvsJLaigS_SR7YFn=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-83.6853,9.90629,3,4,2,2,1,3,2,fiestero,0
+84,"Los Parales","Birras a Mil",https://lh3.googleusercontent.com/p/AF1QipOoS9hYXdeQrqD-du0hQ7ucNBjhIZvIcyBpQERb=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-84.0314,9.93489,3,4,2,2,1,3,2,fiestero,0
+85,"Bar Pura Vida","Bar de los Ticos",https://lh3.googleusercontent.com/p/AF1QipOoS9hYXdeQrqD-du0hQ7ucNBjhIZvIcyBpQERb=s1600-w400,https://www.youtube.com/watch?v=l5xCkE1Xk5A&ab_channel=FernandoCumbancha,-83.6857,9.90875,3,4,2,2,1,3,2,fiestero,0
