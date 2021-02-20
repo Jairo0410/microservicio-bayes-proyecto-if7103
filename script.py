@@ -11,6 +11,7 @@ atractivosModel.add_feature(constants.labels.personas.clima)
 atractivosModel.add_feature(constants.labels.personas.distancia)
 atractivosModel.add_feature(constants.labels.personas.zona)
 atractivosModel.add_feature(constants.labels.personas.ambiente)
+atractivosModel.add_feature(constants.labels.personas.agua)
 
 atractivosModel.fitModel(atractivos_data)
 atractivosModel.saveModel()
